@@ -64,11 +64,32 @@ export class DataService {
     },
     {
       fromName: 'Kelly Richardson',
-      subject: 'Placeholder Headhots',
+      subject: 'Placeholder Headhots I',
       date: 'Last Week',
       id: 7,
       read: false
-    }
+    },
+    {
+      fromName: 'Moe Chamont',
+      subject: 'Family Calendar - Version 2',
+      date: 'Last Week',
+      id: 8,
+      read: false
+    },
+    {
+      fromName: 'Kelly Richardson',
+      subject: 'Placeholder Headhots II',
+      date: 'Last Week',
+      id: 9,
+      read: false
+    },
+    {
+      fromName: 'Moe Chamont',
+      subject: 'Family Calendar - Version 3',
+      date: 'Last Week',
+      id: 10,
+      read: false
+    },
   ];
 
   constructor() { }
