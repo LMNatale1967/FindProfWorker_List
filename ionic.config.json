@@ -1,0 +1,7 @@
+{
+  "name": "FindProfWorker_List",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
